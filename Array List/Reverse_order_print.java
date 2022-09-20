@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Reserse_order_print{
+public class Reverse_order_print{
   
     public static void main ( String[] args){
       
