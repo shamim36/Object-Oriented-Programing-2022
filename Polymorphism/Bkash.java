@@ -1,5 +1,4 @@
 
-package Polymorphism;
 
 public class Bkash  extends OnlineBanking {
     
