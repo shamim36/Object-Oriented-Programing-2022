@@ -35,7 +35,7 @@ public class Main  {
             System.out.println("\n\nPress 1 to continue buying");
             int c = scanner.nextInt();
             if (c != 1) {
-                System.out.println("\n\t "+ price.getPrice()+ "Thank you for visiting Green Garder 2.0");
+                System.out.println("\n\t "+ menu.getName()+ " Thank you for visiting Green Garder 2.0");
                 break;
             }
 
