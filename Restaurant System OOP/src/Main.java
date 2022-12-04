@@ -28,9 +28,10 @@ public class Main  {
 
 
                     t=t+ t1;
-            System.out.println("\t----------------------------");
+            System.out.println("\t---------------------------------");
+            System.out.println("\tTotal Price without vat: " + price.getPrice() );
             System.out.println("\tTotal Price with vat: " + t );
-            System.out.println("\t----------------------------");
+            System.out.println("\t---------------------------------");
 
             System.out.println("\n\nPress 1 to continue buying");
             int c = scanner.nextInt();
